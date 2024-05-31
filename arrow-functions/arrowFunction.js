@@ -31,3 +31,5 @@ var saudacoes = function (nomePessoa) { return console.log("Olá ".concat(nomePe
 
 // Chamando a função de saudações
 saudacoes("Alice");
+
+
